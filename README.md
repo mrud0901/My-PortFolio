@@ -24,5 +24,5 @@ Welcome to my professional software engineering portfolio! This is a modern, hig
 
 ## 🚀 Live Demo
 
-- **Home Page:** Open `main.html` in your web browser.
+- **Home Page:** Open `index.html` in your web browser.
 - **Projects Catalog:** Open `projects.html` in your web browser.
